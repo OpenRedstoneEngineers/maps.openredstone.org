@@ -1,0 +1,8 @@
+{
+  "servers": [
+    {
+      "name": "Build",
+      "url": "http://attis.openredstone.org:8123/"
+    }
+  ]
+}
