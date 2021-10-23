@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "Build",
-      "url": "http://attis.openredstone.org:8123/"
+      "url": "http://crapo.openredstone.org:30201/"
     }
   ]
 }
