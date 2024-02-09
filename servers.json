@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "Build",
-      "url": "http://crapo.openredstone.org:30201/"
+      "url": "https://dynmap.openredstone.org/"
     }
   ]
 }
